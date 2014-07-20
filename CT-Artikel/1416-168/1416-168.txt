@@ -1,0 +1,8 @@
+Tiefer einsteigen
+Mit JavaScript Programmieren lernen, Teil 2
+--------------------------------------------------------------
+c't 16/2014, Seite 168, ola
+
+Objekte, Callbacks und ternäre Operatoren - das hört sich erst mal kompliziert an. 
+Aber wenn Sie dem zweiten Teil unseres JavaScript-Einsteigerkurses Schritt für Schritt
+folgen, erschließt sich fast wie von selbst, was man damit anstellen kann.
