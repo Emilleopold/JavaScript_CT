@@ -1,0 +1,8 @@
+In höheren Sphären
+Mit JavaScript Programmieren lernen, Teil 3
+------------------------------------------------------------------------------
+c't 17/2014, Seite 160, ola
+
+Gerüstet mit den JavaScript-Kenntnissen aus den ersten beiden Teilen geht es 
+in der dritten Folge dieser Einführung auf eine Expedition ins Herz der 
+Sprache: Konstruktoren, Prototypen und Referenzen.
